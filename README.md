@@ -1,3 +1,3 @@
 # Projeto-2-Aula-Bootstrap
 Clone Homepage Spotify - Conclusão
-![Design preview for the Product preview card component coding challenge](./design/desktop-preview.png)
+![Design preview for Homepage Spotify Copy](./design/desktop-preview.png)
