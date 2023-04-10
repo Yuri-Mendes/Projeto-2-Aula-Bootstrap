@@ -51,36 +51,41 @@ nav.navbar-transparente{
 /* END HEADER */
 
 /* START HOME */
-.capa{
-    text-align: center;
+.capa {
+	text-align: center;
 }
 
-.btn-custom{
-    color: #fff;
-    border-radius: 31.25rem;
-    -webkit-border-radius: 31.25rem;
+.btn-custom {
+	color: #fff;
+	border-radius: 31.25rem;
+	-webkit-border-radius: 31.25rem;
     -moz-border-radius: 31.25rem;
     text-transform: uppercase;
     transition: background 0.4s, color 0.4s;
     padding: 0.625rem 1.25rem;
 }
 
-.btn-purple{
-    background: #7c25f8;
-}
-.btn-purple:hover {
-    background: #6207e3;
-    color: #fff;
+.btn-roxo {
+	background: #7c25f8;
 }
 
-.btn-white{
-    border: 2px solid #fff;
-}
-.btn-white:hover {
-    background-color: #fff;
-    color: black;
+.btn-roxo:hover {
+	background: #6207e3;
+	color: #fff;
 }
 
+.btn-branco {
+	border: 0.125rem solid #fff;
+}
+
+.btn-branco:hover {
+	background-color: #fff;
+	color: black;
+}
+
+.carousel-control-next, .carousel-control-prev {
+	width: 5%;
+}
 /* END HOME */
 
 /*CONTEÚDOS - CONTENTS*/
